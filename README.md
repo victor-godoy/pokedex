@@ -18,6 +18,12 @@ Here are the technologies used in this project.
 
 * Github
 
+## Preview
+
+![home ](https://github.com/victor-godoy/pokedex/blob/main/img/previwe-pokedex.png)
+
+
+
 ## Links
   - Deploy: https://victor-godoy.github.io/pokedex/
   - Repository: https://github.com/victor-godoy/pokedex
